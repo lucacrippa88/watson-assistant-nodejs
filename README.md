@@ -5,7 +5,7 @@ Watson Assistant integration in a Node.js web app with custom graphics inspired 
 
 ## Features
 
-To be updated.
+This repo is based on the original one (https://github.com/watson-developer-cloud/assistant-simple) and implements a different graphic user interface (GUI).
 
 
 ## Related tutorials
@@ -15,7 +15,8 @@ To be updated.
 
 ## Related repos
 
-To be updated.
+1. Master: https://github.com/watson-developer-cloud/assistant-simple
+2. How to train Watson Assistant: https://github.com/lucacrippa88/watson-assistant-training
 
 
 ## Disclaimer
