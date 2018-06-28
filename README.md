@@ -31,4 +31,4 @@ To be updated.
 
 ## License
 
-To be updated.
+This project uses the Apache License Version 2.0 software license. https://github.com/lucacrippa88/watson-assistant-nodejs/blob/master/LICENSE
