@@ -11,6 +11,7 @@ This repo is based on the original one (https://github.com/watson-developer-clou
 ## Related tutorials
 
 To be updated.
+Note: add "watson assistant" node description.
 
 
 ## Related repos
